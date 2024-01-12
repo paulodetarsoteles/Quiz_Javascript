@@ -1,0 +1,35 @@
+.quiz-container {
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+.question {
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.result {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.correct-answer {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #d4edda;
+}
+
+.incorrect-answer {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #f8d7da;
+}
+
+#finishBtn {
+    margin-top: 20px;
+}
+
+#restartBtn {
+    margin-top: 20px;
+}
